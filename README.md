@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Gmail-yug.gurnani091@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 ```javascript
-const Sam = {
+const Yug = {
     code: ["Python", "Ruby","Javascript","C++"],
     askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Rails", "Fitness"],
     technologies: {
