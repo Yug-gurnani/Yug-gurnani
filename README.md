@@ -7,17 +7,17 @@
 ```javascript
 const Sam = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    code: ["Python", "Javascript","C++"],
+    askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Django", "Fitness"],
     technologies: {
-       mobileApp: ["Android App"],
+       FrontEnd: ["React"],
        backEnd: {
-            js: ["node", "express", "hapi"],
+            js: ["node"],
+            python : ["Django"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["Postgres", "MySql"],
+        machine_learning: ["Neural Networks"]
     },
-    architecture: ["microservices", "event-driven"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
