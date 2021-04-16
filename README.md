@@ -1,14 +1,8 @@
 ## नमस्ते 🙏
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/yug-gurnani-2595121aa/)
-[![](https://img.shields.io/badge/GeeksforGeeks-yuggurnani-brightgreen)](https://auth.geeksforgeeks.org/user/yuggurnani091/practice//)
+[![](https://img.shields.io/badge/GeeksforGeeks-yuggurnani-brightgreen)](https://auth.geeksforgeeks.org/user/yuggurnani091/practice/)
+[![](https://img.shields.io/badge/Hackerrank-yuggurnani-darkgreen)](https://www.hackerrank.com/yug_gurnani091/)
 [![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sam0000-cmd/count.svg" />
-</p>
-
-
 
 ```javascript
 const Sam = {
