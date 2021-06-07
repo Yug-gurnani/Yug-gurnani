@@ -6,14 +6,14 @@
 
 ```javascript
 const Sam = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Javascript","C++"],
+    code: ["Python", "Ruby","Javascript","C++"],
     askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Django", "Fitness"],
     technologies: {
        FrontEnd: ["React"],
        backEnd: {
             js: ["node"],
             python : ["Django"],
+            ruby: ["rails"]
         },
         databases: ["Postgres", "MySql"],
         machine_learning: ["Neural Networks"]
