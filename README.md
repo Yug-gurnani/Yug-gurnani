@@ -21,6 +21,20 @@ const Sam = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-[![sam's github stats](https://github-readme-stats.vercel.app/api?username=Yug-gurnani&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Yug-gurnani)
+<br >
 
+## 🏆 Github Status
+
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-gurnani&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yug-gurnani&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Yug-gurnani&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+
+<br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
