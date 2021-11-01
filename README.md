@@ -7,7 +7,7 @@
 ```javascript
 const Sam = {
     code: ["Python", "Ruby","Javascript","C++"],
-    askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Django", "Fitness"],
+    askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Rails", "Fitness"],
     technologies: {
        FrontEnd: ["React"],
        backEnd: {
