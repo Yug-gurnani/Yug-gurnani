@@ -26,7 +26,7 @@ const Sam = {
 ## 🏆 Github Status
 
 <p align="left">
-<img height="300px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-gurnani&theme=synthwave">
+<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-gurnani&theme=synthwave">
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yug-gurnani&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Yug-gurnani&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
