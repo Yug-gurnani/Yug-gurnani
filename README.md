@@ -9,7 +9,7 @@ const Sam = {
     code: ["Python", "Ruby","Javascript","C++"],
     askMeAbout: ["Ds and Algos", "tech", "Machine Learning", "music", "Rails", "Fitness"],
     technologies: {
-       FrontEnd: ["React"],
+       FrontEnd: ["Angular", "React"],
        backEnd: {
             js: ["node"],
             python : ["Django"],
